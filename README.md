@@ -1,4 +1,5 @@
 <img width="1584" height="396" alt="Beige Classy Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/0b9da35b-4c0b-443c-82fb-0c4511ef334b" />
+
 ## About me
 
 Hi! My name is Saima, and I’m a Computer Science student at the University of Illinois Chicago with a minor in Marketing. I’m passionate about working at the intersection of technology, data, and user behavior — not just building systems, but understanding why they matter. Through coursework in data structures, algorithms, and applied statistics, I’ve built a strong technical foundation while staying focused on product strategy and real-world impact.
