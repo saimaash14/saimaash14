@@ -19,6 +19,6 @@ Concepts: OOP, Data Structures, Algorithms, Agile/SCRUM, Product Strategy
 | Project | Description |
 |--------|------------|
 | [Red Light Cameras](https://github.com/saimaash14/red-light-cameras) | Processed 10,000+ traffic camera records using C++ with file I/O and custom classes to generate violation insights by neighborhood and time. Includes interactive, menu-driven features for summaries, search, and data exploration. |
-| [SparkHacks 2026](https://github.com/saimaash14/sparkhacks2026) | Built a multi-role React app with modular components and dynamic UI updates. Used JSON-based data models and filtering to simulate a directory system in a collaborative hackathon setting. |
+| [SparkHacks 2026](https://github.com/safiyyah976/sparkhacks2026) | Built a multi-role React app with modular components and dynamic UI updates. Used JSON-based data models and filtering to simulate a directory system in a collaborative hackathon setting. |
 | [Final Maze Game](https://github.com/saimaash14/final-maze-game) | Developed a Python maze game with easy and hard modes, including lives, coin collection, and win/lose conditions. Focused on game logic and user interaction. |
 | [Caesar Encrypt](https://github.com/saimaash14/caesar_encrypt) | Created a Python program to encrypt and decrypt text using the Caesar cipher, reinforcing string manipulation and basic cryptography concepts. |
